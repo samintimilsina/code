@@ -1,0 +1,57 @@
+Script started on Sun 16 Apr 2017 01:41:44 AM EDT
+student@ubuntu: ~student@ubuntu:~$ gedit 15043024.sh
+student@ubuntu: ~student@ubuntu:~$ bash 150430247[K.sh Sagar 150
+student@ubuntu: ~student@ubuntu:~$ b[Kgedit 15043024.shbash 15043024.sh Sagar 150
+Welcome 150, Sagar this is a eurocup information application
+Date of execution: 
+16/04/17
+Time of execution: 
+02:45:21
+Type a country code from above 
+^Z
+[5]+  Stopped                 bash 15043024.sh Sagar 150
+]0;student@ubuntu: ~student@ubuntu:~$ bash 15043024.sh Sagar 150
+Welcome 150, Sagar this is a eurocup information application
+Date of execution: 
+16/04/17
+Time of execution: 
+02:47:29
+ICL 		Iceland
+FRA		France
+POR		Portugal
+WAL		Wales
+GER		Germany
+
+Type a country code from above 
+ICL
+Iceland
+Some Players of Eurocup:
+
+Courtois			Co
+Silva				Si
+Lukaku				Lu
+Hazard				Ha
+Kane				Ka
+Ronaldo				Ro
+Bale				Ba
+Type any 3 codes out of these 7 seperating them by space
+Co Si Lu
+1) Co
+2) Si
+3) Lu
+Choose a player: Co
+Please choose the player in the menu
+Choose a player: 1
+grep: *.txt: No such file or directory
+The information file of this player does not exist.
+Do you want to re-run the program?[y/n]
+m n
+[4]-  Killed                  gedit 15043024.sh
+]0;student@ubuntu: ~student@ubuntu:~$ 
+[K]0;student@ubuntu: ~student@ubuntu:~$ 
+[K]0;student@ubuntu: ~student@ubuntu:~$ 
+[K]0;student@ubuntu: ~student@ubuntu:~$ exit
+exit
+There are stopped jobs.
+]0;student@ubuntu: ~student@ubuntu:~$ 
+[K
